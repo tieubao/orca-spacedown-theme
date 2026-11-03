@@ -3,7 +3,7 @@
   "id": "spacedown-light-theme",
   "publisher": "tieubao",
   "name": "Spacedown Light for Orca",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "execution": "data",
   "description": "Spacedown's iA-style reading palette for Orca: #fcfcfc paper, #1a1a1a ink, one blue for links. Pair with iA Writer Quattro V as the chat font.",
   "license": "MIT",
