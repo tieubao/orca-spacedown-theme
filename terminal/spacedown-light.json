@@ -3,7 +3,7 @@
   "mode": "light",
   "terminal": {
     "background": "#fcfcfc",
-    "foreground": "#1a1a1a",
+    "foreground": "#3c3c3c",
     "cursor": "#1d5fd1",
     "selectionBackground": "#e8eef9",
     "black": "#24292f",
